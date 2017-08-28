@@ -1,6 +1,6 @@
-## Bienvenido
+## Descargas
 
-Descargue la versión de EternumPRO que desea.
+[Última versión](https://github.com/mastersolutionssrl/eternumpro-desktop-releases/releases/latest)
 
 ### Support or Contact
 
